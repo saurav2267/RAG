@@ -1,0 +1,11 @@
+Artificial Intelligence is transforming many industries.
+
+Machine learning is a subset of AI that allows systems to learn from data.
+
+Deep learning uses neural networks with multiple layers.
+
+Retrieval-Augmented Generation improves LLM responses using external data.
+
+Vector databases store embeddings for semantic retrieval.
+
+Chunking helps split large documents into manageable pieces.
