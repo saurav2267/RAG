@@ -6,9 +6,6 @@ __pycache__/
 venv/
 .venv/
 
-# Data (optional — skip if you want papers included)
-data/papers/*.pdf
-
 # Vector store artifacts
 *.index
 *.pkl
